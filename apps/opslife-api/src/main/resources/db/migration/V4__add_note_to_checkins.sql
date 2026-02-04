@@ -1,0 +1,2 @@
+ALTER TABLE checkins
+ADD COLUMN note VARCHAR(500);
